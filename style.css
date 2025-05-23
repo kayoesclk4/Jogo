@@ -2,14 +2,17 @@
 
 header {
 
-text-align: center;
+text-align: center;font-size: 36px;
+color: aliceblue;
 font-family: "Grenze Gotisch", serif;
+margin-top: -60px;
+margin-bottom: -50px;
 }
 
 body{
 
 text-align: center;
-
+background-image: url(rockwall.jpg);
 }
 
 a {
@@ -21,11 +24,18 @@ border-radius: 18px;
 margin: auto;
 }
 
-div {
-background-color: rgb(168, 63, 63);
+div { 
+background-color: #5B3A29 ;
+border: 1px solid white;
 text-align: center;
 width: 30%;
-margin: auto;
+margin-top: 55px;
+margin-right: auto;
+margin-left: auto;
 padding: 20px;
 border-radius: 18px;
+}
+
+img {
+margin: 20px;
 }
