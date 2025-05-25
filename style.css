@@ -15,7 +15,7 @@ body {
     text-align: center;
     background-image: url(rockwall.jpg);
     color: aliceblue;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 a {
@@ -44,4 +44,10 @@ img {
 
     margin: 20px;
 
+}
+
+.fala{
+
+text-align: left;
+font-size: 36px
 }
