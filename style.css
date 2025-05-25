@@ -8,7 +8,9 @@ header {
     font-family: "Grenze Gotisch", serif;
     margin-top: -60px;
     margin-bottom: -50px;
-    background-color: rgba(0, 0, 0, 0.350) ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.5) ;
 }
 
 body {
@@ -51,4 +53,11 @@ img {
 color: azure;
 text-align: center;
 font-size: 36px
+}
+
+.historia{
+
+margin-top: 30px;
+margin-bottom: 25px
+
 }
