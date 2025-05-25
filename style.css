@@ -26,6 +26,7 @@ a {
 }
 
 div {
+    text-align: center;
     background-color: #5B3A29;
     border: 1px solid white;
     text-align: center;
