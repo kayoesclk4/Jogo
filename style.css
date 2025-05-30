@@ -19,38 +19,27 @@ body {
     font-size: 16px;
 }
 
-
-a{
-    text-decoration: none;
-    color: aliceblue;
-    margin: auto;
-}
-
-.botao {
-    text-align: center;
-    background-color: #5B3A29;
-    border: 1px solid white;
-    width: 30%;
-    margin-top: 45px;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 20px;
-    border-radius: 18px;
-}
-
-.escolhas {
-    text-decoration: none;
-    color: aliceblue;
+.escolhasContainer {
     display: block;
-    text-align: left !important;
+    text-align: left;
     font-size: 16px;
     background-color: #5B3A29;
     border: 1px solid white;
-    width: 30%;
-    margin: 25px auto;  
-    padding: 20px;
+    width: 35%;
     border-radius: 18px;
-    cursor: pointer;
+    margin: 12px auto 12px auto;
+
+}
+
+.botao{
+text-decoration: none;
+color: aliceblue;
+padding: 25px 150px 25px 150px;
+margin: auto;
+}
+
+.botao:hover{
+    padding: 30px auto;
 }
 
 img {
@@ -71,9 +60,4 @@ img {
     margin-top: 5px;
     padding: 10px;
 
-}
-
-.test{
-
-    padding: 20px;
 }
