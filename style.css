@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap');
+
+header {
+
+    text-align: center;
+    font-size: 32px;
+    color: aliceblue;
+    font-family: "Grenze Gotisch", serif;
+    margin-top: -60px;
+    margin-bottom: -50px;
+
+}
+
+body {
+
+    text-align: center;
+    background-image: url(Imagens/rockwall.jpg);
+    color: aliceblue;
+    font-size: 16px;
+}
+
+.opcaoUnica{
+    color: azure;
+    border: 1px solid azure;
+    background-color: rgb(110, 110, 110);
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    width: 25%;
+    margin: 50px auto;
+    padding: 20px;
+    margin: 15px auto;
+    border-radius: 12px;
+    display: inline-block;
+}
+
+.botao {
+    color: azure;
+    border: 1px solid azure;
+    background-color: rgb(110, 110, 110);
+    text-align: left;
+    text-decoration: none;
+    width: 40%;
+    margin: 50px auto;
+    padding: 20px;
+    margin: 15px auto;
+    border-radius: 12px;
+    display: inline-block;
+
+}
+
+.botao:hover{
+    padding: 30px auto;
+}
+
+img {
+    margin: 20px;
+}
+
+.fala {
+    font-size: 26px;
+}
+
+.historia {
+    font-size: 22px;
+}
+
+.historiaDois{
+    margin-top: -15px;
+}
